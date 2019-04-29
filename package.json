@@ -1,0 +1,25 @@
+{
+  "name": "simplechat",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulbakhyevhen/simpleChat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bulbakhyevhen/simpleChat/issues"
+  },
+  "homepage": "https://github.com/bulbakhyevhen/simpleChat#readme",
+  "description": ""
+}
